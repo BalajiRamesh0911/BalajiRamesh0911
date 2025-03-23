@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BalajiRamesh0911
-- 👀 I’m interested in Fullstack web dev, Python, SQL
+- 👀 I’m interested in Fullstack web dev, Python, SQL and Data analytics
 - 🌱 I’m currently learning Fullstack web dev
 
 
